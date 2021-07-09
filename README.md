@@ -6,4 +6,5 @@
  2. README file
 
 # Explaination
-In this file, I took Bigmart sales data. there are multiple independent variables in the dataset and one dependent variable.
+In this file, I took Bigmart sales data. there are multiple independent variables in the dataset and one dependent variable. Dependent variable in the form of continoius 
+so that i use linear regression.
