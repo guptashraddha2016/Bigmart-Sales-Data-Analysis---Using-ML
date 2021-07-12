@@ -7,5 +7,5 @@
 
 # Explaination
 In this file, I took Bigmart sales data. there are multiple independent variables in the dataset and one dependent variable. Here i use linear regression algorithm beacuse the type of dependent variable is continous.
-Create 5 different models and check which model gives better accuracy .
+Create 5 different models and check which model gives better accuracy.
 
