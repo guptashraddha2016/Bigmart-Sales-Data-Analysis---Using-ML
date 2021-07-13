@@ -19,5 +19,6 @@ Create 5 different models and check which model gives better accuracy.
      2. Second Model - Using StandardScaler
      3. Third Model - Using MinMaxScaler
      4. Fourth Model - Remove the Outlier's
-  6. Find the accuracy
+     5. Fifth Model - Find the correlation between the columns
+ 5. Find the accuracy
 
