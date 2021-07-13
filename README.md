@@ -12,6 +12,8 @@ Create 5 different models and check which model gives better accuracy.
   # Stpes
   1. Import Dataset
   2. Data Preprocessing
-  3. Create Model
-  4. Find the accuracy
+     1. Find and Fill the null values
+     2. Convert object into int type using LabelEncoder
+  4. Create Model
+  5. Find the accuracy
 
