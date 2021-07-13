@@ -18,5 +18,6 @@ Create 5 different models and check which model gives better accuracy.
      1. First Model - Basic Model
      2. Second Model - Using StandardScaler
      3. Third Model - Using MinMaxScaler
+     4. Fourth Model - Remove the Outlier's
   6. Find the accuracy
 
