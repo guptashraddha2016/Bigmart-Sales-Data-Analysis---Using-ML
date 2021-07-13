@@ -15,5 +15,7 @@ Create 5 different models and check which model gives better accuracy.
      1. Find and Fill the null values
      2. Convert object into int type using LabelEncoder
   4. Create Model
-  5. Find the accuracy
+     1. First Model - Basic Model
+     2. 
+  6. Find the accuracy
 
