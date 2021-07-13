@@ -16,6 +16,6 @@ Create 5 different models and check which model gives better accuracy.
      2. Convert object into int type using LabelEncoder
   4. Create Model
      1. First Model - Basic Model
-     2. 
+     2. Second Model - Using StandardScaler
   6. Find the accuracy
 
