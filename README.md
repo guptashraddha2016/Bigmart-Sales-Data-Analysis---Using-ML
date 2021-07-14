@@ -21,7 +21,9 @@ Create 5 different models and check which model gives better accuracy.
      2. Second Model - Using StandardScaler
          Accuracy of this model is - 0.5115059708516376
          
-     4. Third Model - Using MinMaxScaler
+     3. Third Model - Using MinMaxScaler
+         Accuracy of this model is - 0.500281620576159
+         
      5. Fourth Model - Remove the Outlier's
      6. Fifth Model - Find the correlation between the columns
   5. Find the accuracy
