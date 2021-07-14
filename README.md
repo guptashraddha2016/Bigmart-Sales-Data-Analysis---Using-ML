@@ -10,11 +10,12 @@ In this file, I took Bigmart sales data. there are multiple independent variable
 Create 5 different models and check which model gives better accuracy.
   
   # Stpes
-  1. Import Dataset
-  2. Data Preprocessing
+  # 1. Import Dataset
+ #  2. Data Preprocessing
      1. Find and Fill the null values
      2. Convert object into int type using LabelEncoder
-  4. Create Model
+     
+  # 3. Create Model
      1. First Model - Basic Model
         Accuracy of this model is - 0.4915164751964344
         
@@ -27,6 +28,8 @@ Create 5 different models and check which model gives better accuracy.
      4. Fourth Model - Remove the Outlier's
           Accuracy of this model is - 0.518376290486479
           
-     6. Fifth Model - Find the correlation between the columns
-  5. Find the accuracy
+     5. Fifth Model - Find the correlation between the columns
+          Accuracy of this model is - 0.5186525080972919
+     
+ 
 
