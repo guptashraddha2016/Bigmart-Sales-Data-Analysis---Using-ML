@@ -16,9 +16,13 @@ Create 5 different models and check which model gives better accuracy.
      2. Convert object into int type using LabelEncoder
   4. Create Model
      1. First Model - Basic Model
+        Accuracy of this model is - 0.4915164751964344
+        
      2. Second Model - Using StandardScaler
-     3. Third Model - Using MinMaxScaler
-     4. Fourth Model - Remove the Outlier's
-     5. Fifth Model - Find the correlation between the columns
+         Accuracy of this model is - 0.5115059708516376
+         
+     4. Third Model - Using MinMaxScaler
+     5. Fourth Model - Remove the Outlier's
+     6. Fifth Model - Find the correlation between the columns
   5. Find the accuracy
 
